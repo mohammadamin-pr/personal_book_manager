@@ -11,6 +11,15 @@ A simple book management program built with Python. It allows users to add books
 - Save books in a JSON file
 - Load previously saved books
 - Admin Mode with a password stored in an environment variable
+- Add priority to books (Low, Medium, High)
+
+## Book Priority
+
+users can assign a priority to each book:
+- Low
+- Medium
+- High
+
 
 ## Requirements
 
