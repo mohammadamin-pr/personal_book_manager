@@ -1,6 +1,6 @@
 # Personal Book Manager
 
-A simple book management program built with Python. It allows users to add books, display them, and save them for future use.
+A simple book management program built with Python. It allows users to add books, display them, and save them for future use. This project helps users manage their personal book collection.
 
 ![Python](https://img.shields.io/badge/Python-3-blue?=white)
 
