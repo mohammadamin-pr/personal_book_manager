@@ -39,7 +39,10 @@ for i in range(count):
     books.append(book)
     print(f"{book_name} added successfully")
 
+if not books:
+    print("There are no books available.")
+else:
+    show_books(books)
+    print(f"Total number of books: {len(books)}")
 
-show_books(books)
-print(f"Total number of books: {len(books)}")
 save_books(books)
