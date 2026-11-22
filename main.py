@@ -41,8 +41,7 @@ for i in range(count):
 
 if not books:
     print("There are no books available.")
+    print(f"Total number of books: {len(books)}")
 else:
     show_books(books)
     print(f"Total number of books: {len(books)}")
-
-save_books(books)
